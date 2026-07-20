@@ -8,8 +8,8 @@ import {
 /* ============================================================
    🌾 FLOUR MILL ERP — LIVE DASHBOARD (Phase 6B)
    SETUP (sirf 2 line badalni hai):
-   1. Supabase Dashboard → Settings → API → "Project URL" yahan dalo
-   2. Wahi page se "anon public" key yahan dalo
+   1. Supabase Dashboard → Settings → API → "https://jzphykzwofvllmlbkmqo.supabase.co" yahan dalo
+   2. Wahi page se "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imp6cGh5a3p3b2Z2bGxtbGJrbXFvIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODQ1Mzk3NDYsImV4cCI6MjEwMDExNTc0Nn0.l2lnG_IBOyrcojiYiBBpWHhD-oN1_XFOXowYSfFsmDI" key yahan dalo
    Login: Supabase → Authentication me banaya hua email/password
    ============================================================ */
 const SUPABASE_URL = "https://jzphykzwofvllmlbkmqo.supabase.co";   // ← APNA URL DALO
